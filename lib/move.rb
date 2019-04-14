@@ -17,9 +17,11 @@ end
 def move(board, index, move )
   
   
-#   def update_array(board, spot, choice)
-#     board[spot] = value
-  end
-  
 
 end
+
+def update_array(board, index, move)
+#     board[index] = move
+  
+end
+
