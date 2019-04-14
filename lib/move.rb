@@ -22,5 +22,5 @@ def move(board, index, move = "X" )
   
   end
   
-  return board
+  
 end
