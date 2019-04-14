@@ -15,12 +15,5 @@ end
 
 board = [" "," "," "," "," "," "," "," "," "]
 def move(board, index, char = "X" )
-  
-  
-  def update_array(board, index, )
-   board[index] = move(board, 0,"X")
-  
-  end
-  
-  
+  board[index] = char
 end
