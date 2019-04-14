@@ -20,6 +20,7 @@ def move(board, index, move = "X" )
 
 end
 
+
 def update_array(board, index, move)
 #     board[index] = move
   
