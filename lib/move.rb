@@ -14,12 +14,12 @@ def input_to_index(input)
 end
 
 
-def move(board, index, ) #position, # 'x' or '0')
-#   board = [" ", " ", " "]
+def move(board, index, move )
+  
   
 #   def update_array(board, spot, choice)
 #     board[spot] = value
-#   end
+  end
   
 
 end
